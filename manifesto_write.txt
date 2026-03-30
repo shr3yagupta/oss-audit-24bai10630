@@ -1,0 +1,7 @@
+
+Open Source Manifesto
+Date: 30 March 2026
+
+I believe in the power of open source. Tools like git show how collaboration can change the world.
+For me, freedom means freedom, and I want to use it to build AI.
+I will contribute, share, and learn with the community.
